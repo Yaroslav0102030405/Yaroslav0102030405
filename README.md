@@ -1,4 +1,4 @@
-### Hi, I'm Yaroslav 👋
+### Hello everyone! I'm Yaroslav 👋
 
 My stack:
 
