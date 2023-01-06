@@ -1,17 +1,20 @@
 ### Hi, I'm Yaroslav 👋
 _______________________________________________________________________________________________
 
-<!--
-**Yaroslav0102030405/Yaroslav0102030405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My stack
 
-Here are some ideas to get you started:
+JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React
+
+HTML5
+
+CSS3
+
+Sass
+
+Git
+
+GitHub
+
+Visual Studio Code
