@@ -1,6 +1,6 @@
 ### Hello everyone! I'm Yaroslav 👋
 
-How to reach me: lukovetskyi@gmail.com
+Contact with me: lukovetskyi@gmail.com
 
 My stack:
 
