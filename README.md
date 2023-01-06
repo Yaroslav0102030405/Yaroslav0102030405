@@ -2,4 +2,4 @@
 
 My stack:
 
-JavaScript, HTML5, CSS3, Sass, Git, GitHub
+JavaScript, HTML5, CSS3, Sass
