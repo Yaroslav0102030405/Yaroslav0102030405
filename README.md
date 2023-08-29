@@ -1,6 +1,6 @@
 ### Hello everyone! I'm Yaroslav 
 
-From mistakes to results:
+My journey from mistakes to results:
 
 ❌ ➔ ❌ ➔ ❌ ➔ ❌ ➔ ❌ ➔ ✅ ➔ ❌ ➔  ❌ ➔ ❌ ➔ ✅ ➔ ❌ ➔ ❌ ➔  ✅ ➔ ➔ ➔ ➔ ➔ ➔ ➔ ➔ ➔ ➔ ➔ ➔ ➔ ➔ ✅ ✅ ✅
 
