@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Yaroslav!</h1>
+<h1 align="center">Hello 👋, I'm Yaroslav!</h1>
 
 <h3 align="center">Frontend developer from Ukraine with almost 1 years experience</h3>
 <p align="center"></p>
