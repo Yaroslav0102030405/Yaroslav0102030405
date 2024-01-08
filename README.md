@@ -13,13 +13,10 @@
   <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
   <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS"/>
   <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/>
-  <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS"/>
   <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-  <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next"/>
-  <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"/>
   <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git"/>
 
 <br><br><br><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakharchuk42&layout=compact&hide_title=1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500" alt="Top language used in my re
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakharchuk42&layout=compact&hide_title=1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500" alt="Top language used in my repos" />
 
