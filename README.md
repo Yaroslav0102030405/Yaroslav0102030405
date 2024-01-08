@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Yaroslav!</h1>
 
-<h3 align="center">Frontend developer from Ukraine with almost 5 years experience</h3>
+<h3 align="center">Frontend developer from Ukraine with almost 1 years experience</h3>
 <p align="center">
   <a href='https://www.codewars.com/users/VitZkh'><img src="https://www.codewars.com/users/VitZkh/badges/small" alt="CodeWars"/></a>
 </p>
