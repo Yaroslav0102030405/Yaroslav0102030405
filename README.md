@@ -1,7 +1,7 @@
-<h1 align="center">Hello 👋, I'm Yaroslav!</h1>
+<h1>Hello 👋, I'm Yaroslav!</h1>
 
-<h3 align="center">Frontend developer from Ukraine</h3>
-<p align="center"></p>
+<h3>Frontend developer from Ukraine</h3>
+<p></p>
 
 ## 📖 My contacts
 
