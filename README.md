@@ -1,11 +1,4 @@
-
-## 🛠 Languages and Tools  
-  <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-  <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
-  <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/>
-  <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-
-  <h1 align="center">Hello, I'm Yaroslav! 👋</h1>
+<h1 align="center">Hello, I'm Yaroslav! 👋</h1>
 <h3 align="center">Junior Frontend Developer | React, Next, TypeScript</h3>
 
 ---
