@@ -1,8 +1,3 @@
-<h1>Hello 👋, I'm Yaroslav!</h1> 
-<h2>Frontend developer from Ukraine</h2>
-<h3>📖 My contacts</h3>
-
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D0%BB%D1%83%D0%BA%D0%BE%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9-a035a522a/)
 
 ## 🛠 Languages and Tools  
   <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
@@ -10,8 +5,8 @@
   <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/>
   <img align="left" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
 
-  <h1 align="center">Hi there, I'm Diana 👋</h1>
-<h3 align="center">Junior Frontend Developer | React, JavaScript, TypeScript</h3>
+  <h1 align="center">Hello, I'm Yaroslav! 👋</h1>
+<h3 align="center">Junior Frontend Developer | React, Next, TypeScript</h3>
 
 ---
 
@@ -38,27 +33,4 @@ I understand Git, Redux well, and can work with **Figma** and **Vercel**.
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dianka297&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianka297&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-
----
-
-## 🌱 Currently Learning
-- Advanced React patterns
-- TypeScript best practices
-- Responsive & accessible UI/UX design
-
----
-
-## 📬 Contacts
-- 📧 Email: **dianamakaradze96@gmail.com**  
-- 💬 Telegram: [@di_nighter](https://t.me/di_nighter)  
-- 💼 LinkedIn: [Diana Makharadze](https://www.linkedin.com/in/diana-makharadze-61a947332/)  
 
