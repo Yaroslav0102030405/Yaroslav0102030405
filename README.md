@@ -4,11 +4,8 @@
 ---
 
 ## 🚀 About Me
-I create modern, adaptive and user-friendly web applications using **HTML, CSS, JavaScript, React, TypeScript**.  
-I understand Git, Redux well, and can work with **Figma** and **Vercel**.  
-
-💡 I am constantly learning, solving real problems in projects and strive to write clean, readable code.  
-✨ I am open to interesting offers where I can develop and benefit the team!
+I am a self-taught full-stack developer and am ready to apply my knowledge and skills to solve complex business problems. 
+I am passionate about creating modern, user-friendly, and functional web interfaces.
 
 ---
 
