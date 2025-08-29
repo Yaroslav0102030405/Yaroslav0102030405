@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Yaroslav! 👋</h1>
+<h1 align="center">Yaroslav Lukovetskyi</h1>
 <h3 align="center">Junior Frontend Developer | React, TypeScript, Next</h3>
 
 ---
