@@ -1,3 +1,3 @@
-<h1>Web-developer </h1>
+<h1>Frontend Developer </h1>
 
 Hi, I’m Yaroslav Lukovetskyi. I’m interested in React, TypeScript, NextJS, NodeJS, Express
